@@ -1,59 +1,23 @@
 ## Introduction
 
-Add project description here. What will learners be making? Broadly what skills will they be learning?
+The final stage of this quest is to submit your entry to the Experience AI showcase event.
 
-### What you will make
+Once you submit your entry, your work will be looked at by a panel of experts and you’ll get feedback on your work, with special shortlisted entries being showcased in our global Coolest Projects Showcase and shortlisted teams invited to a special event with Deepmind, a leading AI research company!
 
---- no-print ---
-Add instructions for interacting with the embedded content here.
+### You will:
++ Create a **Model Card** for your machine learning model
++ Complete the submission form and upload both your scratch applications
++ Complete the participant survey
 
-<div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/160619869/?autostart=false" frameborder="0"></iframe>
-</div>
---- /no-print ---
 
---- print-only ---
-![Complete project](images/showcase_static.png)
---- /print-only ---
 
---- collapse ---
----
-title: What you will need
----
-### Hardware
+<p style='border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;'>
+Before you move forward with sharing your awesome work with the world, let’s recap the amazing things you’ve accomplished during this quest: 
+<br><br>
+You created your own **machine learning model**, then created an application to **collect the data** on which you trained it. 
+<br><br>
+You then made another application to **use that model’s predictions to create playlists** specifically tailored to your user based on the data you gathered, then **play those songs back** to them. 
+<br><br>
+You have basically created an AI DJ - <span style="color: #0faeb0"><b>That’s amazing!</b><span style="color: #0faeb0"> 
 
-+ A computer or tablet capable of running Scratch 3
-
-### Software
-
-+ Scratch 3 (either [online](https://scratch.mit.edu/){:target="_blank"} or [offline](https://scratch.mit.edu/download){:target="_blank"})
-+ Python 3
-+ This project can be completed in a web browser using [trinket.io](https://trinket.io/)
-
-### Downloads
-
-+ Download the project [starter file](https://rpf.io/p/en/projectName-go){:target="_blank"} if working offline
-
---- /collapse ---
-
---- collapse ---
----
-title: What you will learn
----
-
-+ Learning objective 1
-+ Learning objective 2
-+ Learning objective 3
-
---- /collapse ---
-
---- collapse ---
----
-title: Additional information for educators
----
-
-You can download the completed project [here](https://rpf.io/p/en/projectName-get){:target="_blank"}.
-
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/projectName/print){:target="_blank"}.
-
---- /collapse ---
+</p>
