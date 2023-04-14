@@ -16,44 +16,50 @@ Notice that it lists the following important information about the model for new
 
 --- task ---
 
-Open a copy of the blank model card.
-
-It is available in [google slides](https://docs.google.com/presentation/d/19ot8cL-BsEe8umJYBhbejXxVKpNJlHvRYLxS7B7hVVE/copy), [powerpoint](resources/Experience%20AI%20-%20My%20model%20card.pptx) and a [printable pdf](resources/Experience%20AI%20-%20My%20model%20card.pdf).
+Fill out the blank model card in your **blueprint document**. The information you provide here will form part of your submission to the showcase, so give full answers!
 
 --- /task ---
 
---- collapse ---
----
-title: Google Slides
----
-
-Click **Make a Copy** on the screen that appears.
-
-The first slide of the deck has instructions on how to fill out the model card.
-
-Once you’ve created your model card, you’ll need to download it as a .pdf file and upload it as part of your Submission Form.
-
-To save and download your finished model card, in the menu at the top choose:
-`File > Download > PDF Document`
-
---- /collapse ---
-
---- collapse ---
----
-title: Microsoft Powerpoint
----
+When you come to the field for `data set`, you can easily find this information about your model on its page on machine learning 4 kids:
 
 
+--- task ---
 
---- /collapse ---
+Open the website [Machine Learning for Kids](https://machinelearningforkids.co.uk/#!/login).
 
---- collapse ---
----
-title: Printable pdf
----
+--- /task ---
 
-Download and fill out the pdf with all the information about your model. Make sure to use your best handwriting!
+--- task ---
 
-Take a photo of your finished model card and upload it to your submission form. 
+In the screen that appears, choose **Log In**. Enter your username and password on the next screen.
 
---- /collapse ---
+![A picture of the blue log in button](images/singup_login.png)
+
+--- /task ---
+
+--- task ---
+
+Select Go to your Projects.
+![Image of the blue go to your projects button on machine learning for kids](images/go2projects.png)
+
+--- /task ---
+
+--- task ---
+
+On your projects page, select the model you want to train.
+![](images/model_name.png)
+
+--- /task ---
+
+--- task ---
+
+Select Learn & Test.
+![](images/learn_test.png)
+
+--- /task ---
+
+ Machine learning for kids will give you some information about how many data samples you have collected for each class, as well as the date and time you most recently trained the model.
+
+![](images/trained_model.png)
+
+Keep these answers handy, as you'll need them in the next step!
