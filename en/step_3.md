@@ -11,10 +11,10 @@ Before you begin the process, make sure you have access to the following things 
 + A finished scratch project which classifies song data into an ML model on ML4Kids
 
 + Your answers to the questions:
-- What is your project? What does it do, in your own words? 
-- What did you find difficult about making it? How did you overcome those challenges?
-- If you had more time, what would you change or add to your application?
-- If someone knew about your application and wanted to use it in a way you didn’t intend, can you think of a way they could use it to harm or influence others? If so, how could you stop that from happening?
+     - What is your project? What does it do, in your own words? 
+     - What did you find difficult about making it? How did you overcome those challenges?
+     - If you had more time, what would you change or add to your application?
+     - If someone knew about your application and wanted to use it in a way you didn’t intend, can you think of a way they could use it to harm or influence others? If so, how could you stop that from happening?
 
 --- task ---
 
