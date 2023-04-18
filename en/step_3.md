@@ -4,7 +4,7 @@ The final step in your Experience AI Music Quest is to share your amazing effort
 
 Before you begin the process, make sure you have access to the following things (you need to attach them to the form!):
 
-+ Your finished model card, saved as a pdf or a photo/screenshot.
++ Your finished model card, with all the fields filled in.
 
 + A finished scratch project which creates themed playlists using a trained ML model on ML4Kids
 
