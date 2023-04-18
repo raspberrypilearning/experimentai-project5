@@ -30,6 +30,6 @@ Fill in the form, making sure to tell us all about your awesome application!
 
 --- task ---
 
-The very last thing to do is to fill out our [Participant survey](https://cambridge.eu.qualtrics.com/jfe/preview/previewId/bf942bb4-119e-4ce5-97e4-f9bf370a333e/SV_3gRYEvqIwrFbtNs?Q_CHL=preview&Q_SurveyVersionID=current){:target="_blank"}, and let us know about your time during the quest, and which parts of it we can make better!
+The very last thing to do is to fill out our [Participant survey](https://cambridge.eu.qualtrics.com/jfe/form/SV_3gRYEvqIwrFbtNs){:target="_blank"}, and let us know about your time during the quest, and which parts of it we can make better!
 
 --- /task ---
