@@ -18,7 +18,7 @@ Before you begin the process, make sure you have access to the following things 
 
 --- task ---
 
-Click the link to the [Experience AI Challenge Submission Form](https://docs.google.com/forms/d/e/1FAIpQLScKo47ByUAqWukkw8xy8MGfV28niDUhdWRJIFpJUphfTW9L4A/viewform?usp=sharing){:target="_blank"} - it will open in a new tab.
+Click the link to the [Experience AI Challenge Submission Form](https://form.raspberrypi.org/4873452){:target="_blank"} - it will open in a new tab.
 
 --- /task ---
 
